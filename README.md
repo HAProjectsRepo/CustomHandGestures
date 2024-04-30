@@ -1,6 +1,6 @@
 # Custom Hand Gestures
 
-Custom Hand Gestures is a tool that enables users to record and detect static hand gestures using the Unity XRI toolkit helper. The tool utilizes wrist and fingertip data (including thumb and all four fingers) to optimize and reduce the computational load for gesture recognition. It provides position and rotation threshold values for precise gesture detection, making it a highly efficient tool for hand gesture recognition within Unity-based projects.
+Custom Hand Gestures is a tool that enables users to record and detect static hand gestures using the Unity XRI Toolkit and Unity XR Hands. The tool utilizes wrist and fingertip data (including thumb and all four fingers) to optimize and reduce the computational load for gesture recognition. It provides position and rotation threshold values for precise gesture detection, making it a highly efficient tool for hand gesture recognition within Unity based projects.
 
 ![Custom Hand Gestures Preview](CustomHandGestures.png)
 
